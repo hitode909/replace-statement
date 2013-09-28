@@ -4,6 +4,8 @@
 - Parse source with PPI -> match patterns -> replace tokens.
 - This method is not good. It doesn't work when the order of keys are different, or the last colon is missing, etc.
 - More better solution: [hitode909/rewrite-on-called](https://github.com/hitode909/rewrite-on-called)
+- More More Better solution: https://github.com/hitode909/replace-method-call
+
 
 ## Examples
 
